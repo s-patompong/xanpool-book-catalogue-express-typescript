@@ -1,10 +1,12 @@
 # Book Catalogue Backend in ExpressJS + TypeScript
 
-First, make sure to run `npm install` after cloning the repository.
+This is a test project.
 
-## Dev
+## Dev Installation
 
-- Make sure to run `nvm use` to use the same node version with the code. Or you can read the version from .nvmrc file.
+- Copy `.env.example` and paste it as `.env` file.
+- Run `nvm use` to use the same node version with the code. Or you can read the version from .nvmrc file if you don't have nvm installed.
+- Run `npm install` to install the dependencies.
 - To start the development server, run `npm start`.
 
 ## Lint
